@@ -1,0 +1,3 @@
+- insert:
+    - id: ui-periodic-model-select
+      name: dsh-plugin-periodic-model-select
